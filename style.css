@@ -234,7 +234,7 @@ svg {
 
 /*---------------------------------Theme Toggler Start--------------------------------------------------*/
 .theme-toggler{
-  position: absolute;
+  position: fixed;
   top: 0;
   right: 1%;
   border-radius: 50%;
